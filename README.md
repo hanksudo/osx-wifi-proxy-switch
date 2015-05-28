@@ -1,4 +1,4 @@
-# osx-wifi-proxy
+# osx-wifi-proxy-switch
 
 switch web prxoy and secure web proxy by shell script.
 
