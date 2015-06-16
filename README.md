@@ -9,6 +9,12 @@ switch web prxoy and secure web proxy by shell script.
 ./osx-wifi-proxy.sh off
 ```
 
+### link to your bin path
+
+```bash
+ln -s ${PWD}/osx-wifi-proxy.sh ~/bin/proxy
+```
+
 ## Documentation
 
 - [airport – the Little Known Command Line Wireless Utility  |   OSXDaily](http://osxdaily.com/2007/01/18/airport-the-little-known-command-line-wireless-utility/)
