@@ -6,8 +6,8 @@ NETWORKSETUP=/usr/sbin/networksetup
 usage ()
 {
   echo 'Usage :'
-  echo '\t./osx-wifi-proxy.sh on'
-  echo '\t./osx-wifi-proxy.sh off'
+  echo "\t$0 on"
+  echo "\t$0 off"
   exit
 }
 
